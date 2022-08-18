@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://sjw1980.github.io/jinwoo/en/blog</id>
+    <title>Jinwoo.S Blog</title>
+    <updated>2022-08-18T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://sjw1980.github.io/jinwoo/en/blog"/>
+    <subtitle>Jinwoo.S Blog</subtitle>
+    <icon>https://sjw1980.github.io/jinwoo/en/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Welcome]]></title>
+        <id>welcome</id>
+        <link href="https://sjw1980.github.io/jinwoo/en/blog/welcome"/>
+        <updated>2022-08-18T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[앞으로 잘 가꿔볼께요.]]></summary>
+        <content type="html"><![CDATA[<p>앞으로 잘 가꿔볼께요.
+쉽게 나만의 사이트를 관리할 수 있도록 해준 도큐사우르스 감사합니다.</p>]]></content>
+        <author>
+            <name>Jinwoo Seo</name>
+            <uri>https://github.com/sjw1980</uri>
+        </author>
+        <category label="hello" term="hello"/>
+        <category label="docusaurus" term="docusaurus"/>
+    </entry>
+</feed>

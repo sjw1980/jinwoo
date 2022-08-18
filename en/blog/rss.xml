@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Jinwoo.S Blog</title>
+        <link>https://sjw1980.github.io/jinwoo/en/blog</link>
+        <description>Jinwoo.S Blog</description>
+        <lastBuildDate>Thu, 18 Aug 2022 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>en</language>
+        <item>
+            <title><![CDATA[Welcome]]></title>
+            <link>https://sjw1980.github.io/jinwoo/en/blog/welcome</link>
+            <guid>welcome</guid>
+            <pubDate>Thu, 18 Aug 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[앞으로 잘 가꿔볼께요.]]></description>
+            <content:encoded><![CDATA[<p>앞으로 잘 가꿔볼께요.
+쉽게 나만의 사이트를 관리할 수 있도록 해준 도큐사우르스 감사합니다.</p>]]></content:encoded>
+            <category>hello</category>
+            <category>docusaurus</category>
+        </item>
+    </channel>
+</rss>

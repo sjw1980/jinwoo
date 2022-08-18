@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkjinwoo=self.webpackChunkjinwoo||[]).push([[7779],{9089:o=>{o.exports=JSON.parse('{"permalink":"/jinwoo/blog/tags/facebook","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
