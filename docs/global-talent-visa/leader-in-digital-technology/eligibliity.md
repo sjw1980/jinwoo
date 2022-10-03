@@ -1,0 +1,65 @@
+# Eligibility
+ref: https://www.gov.uk/global-talent-digital-technology/eligibility
+
+디지털 기술 분야 리더로 영국에서 일하기
+
+Contents
+- [Overview](./overview)
+- [Eligibility](./eligibility)
+- [Documents you'll need to apply](./documents)
+- Apply for endorsement
+- If your endorsement application is refused
+
+## Eligibility
+적격 조건
+- 리더 (특별 인재 _Exceptional talent_)
+- 떠오르는 리더 (특별 약속 _Exceptional promise_)
+
+특별 약속 신청자는 경력 사항이 보통 5년보다 작아서 
+보유하고 있는 기술이나 과업으로 리더가 될 가능성을 증명해야 한다.
+
+Tech Nation에서 신청서를 평가하고 비자 신청 기준을 충족하는지 결정함
+
+### Exceptional talent
+디지털 기술 분야에서 최근 5년 동안 리더로서 남들에게 각인되는 것을 보여줘야 함. 최소 다음 중 2개 이상 충족해야 함
+
+- 제품 주도 디지털 기술 회사를 직접 설립 했거나 시니어로 재직 중 혁신 기록
+- 신규 디지털 기술 분야나 개념에 대한 업무 혁신 기록
+- 업무 외, 멘토링이나 협업 과제 중 디지털 기술 섹터의 기여
+- 제품 주도 기술 회사를 설립하거나 근무하면서 기술적, 상업적, 기업가적 기여
+- 연구 출판이나 전문가에 의해 승인된 연구
+
+### Exceptional promise
+디지털 기술 분야에서 최근 5년 동안 잠재적 인재로서 남들에게 각인되는 것을 보여줘야 함. 최소 다음 중 2개 이상 충족해야 함
+
+- 신규 디지털 기술 분야 또는 개념에서 업무 혁신 예
+- 업무 외, 멘토링이나 협업 과제 중 디지털 기술 섹터의 기여 예
+- 제품 주도 기술 회사를 설립하거나 근무하면서 기술적, 상업적, 기업가적 기여 예
+- 연구 출판이나 전문가에 의해 승인된 연구
+
+### How your application will be assessed
+신청 결정시, Tech Nation은 다음을 기준으로 적격 여부를 평가함.
+- 경력 사항 - 국제적 명성이나 업무 효과
+- 추천서의 진술 강도와 신청서의 증거들
+- 영국의 디지털 기술 기여
+- 학업 성적이나 급여 및 고용 회사의 수준 또는 기업자의 경우 모금액
+- 과업이나 경험의 상업적 영향성
+
+### Fast track eligibility
+아래 영국의 기업 보육 프로그램에 합격하고 이를 신청서에 기재할 경우, 빠른 결정을 받을 수 있음
+- Antler
+- Bethnal Green Ventures
+- Carbon13
+- Collider
+- Creative Destruction Lab
+- Cylon
+- Entrepreneur First
+- Founders Academy
+- Founders Factory
+- Ignite
+- SETsquared
+- Startupbootcamp
+- techstars
+- Wayra
+- Zinc
+보통 3주 이내에 결정을 받을 수 있음

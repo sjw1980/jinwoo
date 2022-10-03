@@ -1,0 +1,91 @@
+# Overview
+ref: https://www.gov.uk/global-talent-digital-technology
+
+디지털 기술 분야 리더로 영국에서 일하기
+
+Contents
+- [Overview](./overview)
+- [Eligibility](./eligibility)
+- [Documents you'll need to apply](./documents)
+- Apply for endorsement
+- If your endorsement application is refused
+
+# Overview
+디지털 기술 분야에서의 (잠재적) 리더라면 국제 인재 비자로
+영국에서 근무가 가능함.
+디지털 기술 분야 예시
+ - 핀테크
+ - 게임
+ - 사이버 보안
+ - AI
+
+* 저명한 수상 경력이 없어도 가능함.
+
+## What you can do with a Global Talent visa
+
+본 비자가 있을 경우 할수 있는 것.
+- 최대 5년간 기간 설정 가능
+- 회사의 취업을 하거나 창업을 할 수 있음.
+- 홈 오피스에 보고 없이 직장을 그만두거나 변경 가능
+- 부양 가족을 영국에 데려올 수 있음.
+- 영국 밖으로 왕복 여행 가능
+
+> 홈 오피스 : 영국의 정부 부처중 하나 [내무부](https://ko.wikipedia.org/wiki/%EC%98%81%EA%B5%AD_%EB%82%B4%EB%AC%B4%EB%B6%80)
+
+연봉이나 언어 능력에 대한 요구 조건 없음.
+
+영국 체류 기간은 제한이 없으나 만료 전 [적절한 기준](https://www.gov.uk/global-talent/extend-your-visa)을 충족하여 갱신필요.
+
+영주권 신청 기회 제공.
+- 리더로 신청한 경우, 3년 뒤
+- 잠재적 리더로 신청한 경우, 5년 뒤
+
+단, [공공 기금](https://www.gov.uk/government/publications/public-funds--2/public-funds)이나 연금 신청 불가. 스포츠선수로 근무 불가
+
+## Eligibility
+직장을 미리 얻을 필요 없는 비자로, 다음 중 하나에 기반함
+- 개발자나 엔지니어 또는 데이터 과학자와 같은 기술직 경험
+- 소프트웨어나 하드웨어 또는 관련 데이터 처리 제작을 하는 기술 회사에 관련한 상업, 투자, 디지털 제품의 비즈니스 경험 보유 
+
+[상세 리스트](https://www.gov.uk/government/publications/global-talent-endorsing-bodies/technical-or-business-skills-covered-by-tech-nation)
+
+
+## How to apply
+(적격 수상 실적이 없을 경우) 본 비자를 위해서는 엔도스먼트가 필요함.
+
+### Applying for an endorsement
+(잠재적)리더를 증명하기 위해서 엔도스먼트 신청 필요
+
+해당 신청서는 Tech Nation 에서 검토.
+
+결정 까지 5에서 8주 정도 소요
+단, [패스트 트랙](https://www.gov.uk/global-talent-digital-technology/eligibility)을 요할 경우 3주 소요.
+
+### Applying for the visa
+부양자를 포함한 신청 [가이드](https://www.gov.uk/global-talent) 참조
+
+비자 소요 시간
+- 영국 외부 거주 : 3주
+- 영국 내 거주 : 8주
+
+### When you can apply for the visa
+엔도스먼트가 승인 후, 비자를 신청 할수도 있고, 
+엔도스먼트 신청과 동시에 비자 신청도 가능.
+
+만약 영국내 머무르고 있는 상태라면 그 신청이 결정되기까지 더 머무를 수 있음.
+
+최소한 3개월 이전에 신청해야 함.
+
+## Fees
+신청료 : £608 (파운드)
+
+엔도스먼트 기반 신청자
+ - 엔도스먼트 신청료 : £456
+ - 비자 신청료 : £152
+
+저명한 수상 기반 신청자
+ - 비자 신청료 : £608
+
+만약 가족들과 같이 올 경우, 신청 인원당 £608 필요.
+
+> 금액이 약간 상이하게 표현되어 있음.
