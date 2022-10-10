@@ -75,3 +75,9 @@ Contents
 ### Healthcare surcharge
 [의료 보장](https://www.gov.uk/healthcare-immigration-application/pay) 요금 필요: 인당(년별) : £624
 [비용 계산법](https://www.immigration-health-surcharge.service.gov.uk/checker/type)
+
+
+
+> 그외 도움이 되는 사이트 
+> https://beetlehope.com/talent/
+> https://aigoncharov.gumroad.com/l/uk-global-talent-visa-for-mortals
